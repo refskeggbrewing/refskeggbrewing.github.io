@@ -1,8 +1,8 @@
-f1rst p0st!
+
 <ul>
-  {% for post in site.posts %}
+{% for post in site.categories['brewing'] %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-  {% endfor %}
+{% endfor %}
 </ul>
