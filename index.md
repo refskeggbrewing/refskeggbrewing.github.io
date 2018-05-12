@@ -1,3 +1,8 @@
+---
+title: Edgar Refskegg
+---
+
+
 f1rst p0st!
 <ul>
   {% for post in site.posts %}

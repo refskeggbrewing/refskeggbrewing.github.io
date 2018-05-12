@@ -1,4 +1,6 @@
-
+---
+title: Edgar's Brewing
+---
 <ul>
 {% for post in site.categories['brewing'] %}
     <li>
