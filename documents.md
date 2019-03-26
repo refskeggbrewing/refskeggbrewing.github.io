@@ -15,8 +15,11 @@ Period French Cider Documentation: [Cider](/assets/documents/cider.pdf)
 ## Enameling
 
 Enamel documentation used at Clash with Bacchus: [Bacchus](/assets/documents/enamel_clashwbacchus.pdf)
+
 Enameling notes: [Enamel Notes](/assets/documents/enamel_notes.pdf)
+
 General Enameling Procedure: [Enamel Procedure](/assets/documents/enamel_procedure.pdf)
+
 General References used for enameling: [Enamel References](/assets/documents/enamel_references.pdf)
 
 ## Documentation Blog Posts
