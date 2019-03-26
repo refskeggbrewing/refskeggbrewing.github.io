@@ -1,6 +1,26 @@
 ---
 title: Documentation
 ---
+
+## General
+
+The EZ-doc for Atlantia A&S documentation can be found here: [EZ-Doc](/assets/documents/basic.pdf)  
+
+Because I come from an engineering background, for the most part my documentation is cited using IEEE style citations. I try to keep research as detailed as possible.
+
+## Brewing 
+
+Period French Cider Documentation: [Cider](/assets/documents/cider.pdf)
+
+## Enameling
+
+Enamel documentation used at Clash with Bacchus: [Bacchus](/assets/documents/enamel_clashwbacchus.pdf)
+Enameling notes: [Enamel Notes](/assets/documents/enamel_notes.pdf)
+General Enameling Procedure: [Enamel Procedure](/assets/documents/enamel_procedure.pdf)
+General References used for enameling: [Enamel References](/assets/documents/enamel_references.pdf)
+
+## Documentation Blog Posts
+
 <ul>
 {% for post in site.categories['documentation'] %}
     <li>
