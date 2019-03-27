@@ -122,6 +122,16 @@ repo: "https://github.com/refskeggbrewing"
 email: "edgar@refskeggbrewing.com"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/heraldry.png'
+  32: '/assets/logos/heraldry.png'
+  96: '/assets/logos/heraldry.png'
+  120: '/assets/logos/heraldry.png'
+  144: '/assets/logos/heraldry.png'
+  180: '/assets/logos/heraldry.png'
+  512: '/assets/logos/heraldry.png'
+  1024: '/assets/logos/heraldry.png'
+
 # 8. Site navigation
 navigation_header:
   Home: /
