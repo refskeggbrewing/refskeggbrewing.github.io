@@ -114,7 +114,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Edgar Refskegg" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/heraldry.png" # Site logo, also used in jekyll-seo-tag
 description: "Edgar Refskegg's A&S Documentation" # Site description and default description, also used in jekyll-seo-tag
 url: "https://refskeggbrewing.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
