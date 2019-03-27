@@ -129,6 +129,7 @@ navigation_header:
   Enameling: /enameling/
   Documentation: /documents/
   Presence: /presence/
+  About: /about/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
  Twitter: https://twitter.com/m3chanical
