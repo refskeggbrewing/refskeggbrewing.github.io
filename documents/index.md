@@ -7,10 +7,14 @@ title: Documentation
 The EZ-doc for Atlantia A&S documentation can be found here: [EZ-Doc](/assets/documents/basic.pdf)  
 
 Because I come from an engineering background, for the most part my documentation is cited using IEEE style citations. I try to keep research as detailed as possible.
+If you'd like to see in more detail how I create the documentation I
+use, please look [here](process). 
 
 ## Brewing 
 
 Period French Cider Documentation: [Cider](/assets/documents/cider.pdf)
+I also have some raspberry mead that I need to add the documentation
+for. I have also done a bochet based on a French book from 1390.
 
 ## Enameling
 
