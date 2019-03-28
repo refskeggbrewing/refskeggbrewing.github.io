@@ -16,6 +16,10 @@ are:
 * Thompson Enamel
     * As the name implies, enamel resources: enamel, kiln supplies, etc.
 
+## Enameling Pictures
+
+Click here to [enameling pictures](pictures)! 
+
 ## Enameling Blog Posts
 
 <ul>
