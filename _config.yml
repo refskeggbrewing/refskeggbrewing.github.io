@@ -135,6 +135,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 8. Site navigation
 navigation_header:
   Home: /
+  Blog: /blog/
   Brewing: /brewing/
   Enameling: /enameling/
   Other A&S: /misc/
