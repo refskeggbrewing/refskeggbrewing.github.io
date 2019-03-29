@@ -26,12 +26,3 @@ General Enameling Procedure: [Enamel Procedure](/assets/documents/enamel_procedu
 
 General References used for enameling: [Enamel References](/assets/documents/enamel_references.pdf)
 
-## Documentation Blog Posts
-
-<ul>
-{% for post in site.categories['documentation'] %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>

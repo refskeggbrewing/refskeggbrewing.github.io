@@ -4,11 +4,12 @@ title: Presence
 
 ## Events
 
-* Defending the Gate 2019
-* Night on the Town 2019
-* Ruby Joust 2019
-* Storvik Novice Tourney 2019
-* Skewered! 2 2019
+### Upcoming
+
+* Night on the Town 
+* Ruby Joust 
+* Storvik Novice Tourney 
+* Skewered! 2 
 
 ## Activities 
 
@@ -28,12 +29,3 @@ title: Presence
 * Participated several times in Bhakail's brewing champion competition at Bhakail Yule (EK)
 * Pennsic 2017 - Entered whiskey mead into interkingdom brewing competition which yielded high praise
 
-# Presence Blog Posts
-
-<ul>
-{% for post in site.categories['presence'] %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
