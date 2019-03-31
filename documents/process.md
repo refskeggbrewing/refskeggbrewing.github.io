@@ -1,5 +1,6 @@
 ---
 title: Documentation Process
+feature_image: /assets/images/document.jpg
 ---
 
 ## Background 

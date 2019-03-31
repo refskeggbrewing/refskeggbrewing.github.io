@@ -1,5 +1,6 @@
 ---
 title: Documentation
+feature_image: /assets/images/document.jpg
 ---
 
 ## General

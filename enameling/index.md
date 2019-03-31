@@ -3,6 +3,8 @@ title: Enameling
 feature_image: /assets/images/about_enameling.jpg
 ---
 
+* * * 
+
 ## Supplies
 
 Certainly supplies are important. Please check out the [Supplies](suppliers) page for purchasing information! 
@@ -19,6 +21,8 @@ are:
 ## Enameling Pictures
 
 Click here to [enameling pictures](pictures)! 
+
+* * * 
 
 ## Enameling Blog Posts
 
