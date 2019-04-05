@@ -9,7 +9,7 @@ feature_image: /assets/images/about_enameling.jpg
 
 This section is going to take some time to write about. In the mean
 time, please refer to the documentation pdf files posted in the
-[documentation](documents) section. 
+[documentation](..documents) section. 
 
 ## Supplies
 
