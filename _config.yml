@@ -144,6 +144,16 @@ navigation_header:
   Presence: /presence/
   About: /about/
 
+navigation_footer:
+  Home: /
+  Blog: /blog/
+  Brewing: /brewing/
+  Enameling: /enameling/
+  Other A&S: /misc/
+  Documentation: /documents/
+  Presence: /presence/
+  About: /about/
+
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
  Twitter: https://twitter.com/m3chanical
  GitHub: https://github.com/refskeggbrewing
