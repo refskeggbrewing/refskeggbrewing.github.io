@@ -6,7 +6,7 @@ feature_image: /assets/images/about_enameling.jpg
 * * *
 
 Pictures of enameling from the Clash with Bacchus event on September 28, 2018. Very fun event! 
-../assets/images/bacc
+
 {% include figure.html image="/assets/images/bacchus1.jpg" caption="My A&S display inside the hall" position="right" width="300" height="800" %}
 
 {% include figure.html image="/assets/images/bacchus2.jpg" caption="Thyrsus medallions. Need to fix the sideways..." position="left" width="300" height="800" %}
