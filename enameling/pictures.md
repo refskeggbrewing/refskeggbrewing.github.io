@@ -35,7 +35,7 @@ feature_image: /assets/images/about_enameling.jpg
 
 {% include figure.html image="/assets/images/enamel15.JPEG" caption="Mini disks after firing" position="left" width="300" height="800" %}
 
-{% include figure.html image="/assets/images/enamel16.JPEG" caption="The mini disks in addition to a bronze rose" position="left" width="300" height="800" %}
+{% include figure.html image="/assets/images/enamel16.JPEG" caption="The mini disks in addition to a brass rose" position="left" width="300" height="800" %}
 
 {% include figure.html image="/assets/images/enamel17.JPEG" caption="Copper disks after etching and cleaned up before packing" position="right" width="300" height="800" %}
 

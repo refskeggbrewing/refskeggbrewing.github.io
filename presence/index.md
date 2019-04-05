@@ -5,6 +5,13 @@ feature_image: /assets/images/presence.jpg
 
 * * *
 
+The feature image on this page is a shot from above the battlefield at
+Pennsic. It is not my own, it's from an SCA website. Sadly it seems I
+do not have a lot of pictures of the events I've gone to.
+
+I try to get to events on a regular basis. They're fun and I enjoy
+hanging out with people and it's always great to engage new experiences. 
+
 ## Events
 
 * * *
