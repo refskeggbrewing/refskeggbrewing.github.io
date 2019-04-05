@@ -1,5 +1,6 @@
 ---
 title: Presence
+feature_image: /assets/images/presence.jpg 
 ---
 
 ## Events
