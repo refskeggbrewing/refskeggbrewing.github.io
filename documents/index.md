@@ -3,7 +3,11 @@ title: Documentation
 feature_image: /assets/images/document.jpg
 ---
 
+* * *
+
 ## General
+
+* * *
 
 The EZ-doc for Atlantia A&S documentation can be found here: [EZ-Doc](/assets/documents/basic.pdf)  
 
@@ -13,11 +17,15 @@ use, please look [here](process).
 
 ## Brewing 
 
+* * *
+
 Period French Cider Documentation: [Cider](/assets/documents/cider.pdf)
 I also have some raspberry mead that I need to add the documentation
 for. I have also done a bochet based on a French book from 1390.
 
 ## Enameling
+
+* * *
 
 Enamel documentation used at Clash with Bacchus: [Bacchus](/assets/documents/enamel_clashwbacchus.pdf)
 

@@ -3,7 +3,11 @@ title: Documentation Process
 feature_image: /assets/images/document.jpg
 ---
 
+* * *
+
 ## Background 
+
+* * * 
 
 I write my documentation in markdown files and convert to pdf's using
 Pandoc and a LaTeX template. As mentioned, I execute citations primarily

@@ -5,6 +5,12 @@ feature_image: /assets/images/about_enameling.jpg
 
 * * * 
 
+## How-To Enamel / Where To Start
+
+This section is going to take some time to write about. In the mean
+time, please refer to the documentation pdf files posted in the
+[documentation](documents) section. 
+
 ## Supplies
 
 Certainly supplies are important. Please check out the [Supplies](suppliers) page for purchasing information! 

@@ -3,7 +3,11 @@ title: Presence
 feature_image: /assets/images/presence.jpg 
 ---
 
+* * *
+
 ## Events
+
+* * *
 
 ### Upcoming
 
@@ -13,6 +17,8 @@ feature_image: /assets/images/presence.jpg
 * Skewered! 2 
 
 ## Activities 
+
+* * *
 
 ### Atlantia
 
