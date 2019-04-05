@@ -13,6 +13,8 @@ time, please refer to the documentation pdf files posted in the
 
 ## Supplies
 
+* * *
+
 Certainly supplies are important. Please check out the [Supplies](suppliers) page for purchasing information! 
 In the mean time, the main places where I obtain my enameling materials
 are:
@@ -26,11 +28,16 @@ are:
 
 ## Enameling Pictures
 
-Click here to [enameling pictures](pictures)! 
+* * * 
+
+* [General enameling pictures](pictures)! 
+* [Clash with Bacchus Display](bacchus)
 
 * * * 
 
 ## Enameling Blog Posts
+
+* * * 
 
 <ul>
 {% for post in site.categories['enameling'] %}
