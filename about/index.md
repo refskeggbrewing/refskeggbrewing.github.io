@@ -11,7 +11,7 @@ spent much time in the East Kingdom. I began participating in the SCA in
 started off most interested in A&S and that is where I continue today
 along with a side of rapier. I dabble in a lot of A&S and my main
 interests are research, enameling (and soon more in depth metalworking... I've
-definitely opened a can of worms here.), brewing, and various other activities
+definitely opened a can of worms here), brewing, and various other activities
 such as leatherworking. Essentially, if I can learn something new or
 help someone else learn, I am happy. 
 

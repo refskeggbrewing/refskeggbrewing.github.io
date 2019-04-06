@@ -42,4 +42,6 @@ hanging out with people and it's always great to engage new experiences.
 * Taught Beginner Historical Research class at EK Artisan's Village 2017
 * Participated several times in Bhakail's brewing champion competition at Bhakail Yule (EK)
 * Pennsic 2017 - Entered whiskey mead into interkingdom brewing competition which yielded high praise
-
+* EK Brewer's Guild - Brewer Rank
+    * Period Bochet received 66 points - Nottingham Fair 2016 
+    * Period hybrid raspberry mead received 66 points (I can't remember exactly. Somewhere in the high 60s) - Artisan's Village 2017
