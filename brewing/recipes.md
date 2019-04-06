@@ -7,9 +7,47 @@ feature_image: /assets/images/about_brewing.jpg
 
 ## Recipe List: 
 
+* [Traditional Mead](#traditional-mead)
 * [Lemon Nutmeg Mead](#lemon-nutmeg-mead)
 * [Period Bochet](#period-french-bochet)
 * [Period French Cider](#period-french-cider)
+
+* * *
+
+### Traditional Mead
+
+Traditional meads are awesome and really allow the quality of the
+brewer and the ingredients to shine in an unadulterated way. Further,
+good quality traditionals provide an excellent base mead for melomels,
+metheglins, etc.
+
+My favorite way to make a complex mead is to start with a traditional
+and let it ferment to completion. Then afterward, start mixing in fruit
+purees, spices, or whatever might sound good. One thing that makes mead
+so fun is that one can do almost whatever they want with it to create
+something interesting. 
+
+I generally use a ratio of 3 lbs of honey per gallon of water. This is
+generally considered a medium sweet blend. The honey can be scaled up or
+down depending on the desired outcome, but I've found that this ratio
+provides the best range of results.
+
+#### Ingredients
+
+* 3lbs Blueberry Honey 
+    * Honey style doesn't really matter, but different ones will impart different flavors
+* 1 gallon of water
+    * If making five gallons for example, scale accordingly.
+    * Also, what I usually do is base my water volume off of my target OG. Typically with this mead I go for 1.110 OG, and add water to the honey until it's met.
+* 1 L or so of a yeast starter. 
+    * I follow Ken Schramm's procedure for making a yeast starter. In a 2L soda bottle or erlenmeyer flask, add some DME, honey, and water, then heat to sterilize. Cool to 70 F and pitch yeast. Place an airlock and let sit overnight or so.
+    * Having a hearty yeast starter, in my experience, is really important for making quality mead. Honey isn't easy to ferment for yeast, so having a huge colony takes a lot of stress off.
+
+#### Procedure
+
+* Combine the ingredients into a proper sized carboy and stir, shake, etc. until everything is well mixed.
+* Ensure the mix is proper yeast pitching temperature (between 60-70 F or so) and pitch the yeast starter
+* Add an airlock and let it go. With a good  yeast starter the airlock should see activity fairly quickly
 
 * * *
 
