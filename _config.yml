@@ -98,8 +98,7 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "A&S Research and Thoughts" 
-    feature_text: |
-      Welcome to Edgar's A&S!
+    feature_text: " "
     feature_image: "/assets/images/blog_feature.jpg"
 
 
