@@ -11,6 +11,7 @@ feature_image: /assets/images/about_brewing.jpg
 * [Lemon Nutmeg Mead](#lemon-nutmeg-mead)
 * [Period Bochet](#period-french-bochet)
 * [Period French Cider](#period-french-cider)
+* [Black Currant Mead](#black-currant-mead)
 
 * * *
 
@@ -95,9 +96,9 @@ yield similar results. We shall see...
 
 ### Period French Bochet
 
-From a 14th Century French book. 
+From a 14th Century French book.
 
-More details soon.
+More details soon. I need to dig up my documentation.
 
 #### Ingredients
 
@@ -108,11 +109,52 @@ More details soon.
 ### Period French Cider
 
 This is a pretty simple recipe. Essentially, crush apples into juice,
-then ferment. Then drink. Done.
+then ferment. Then drink. Done. See the more detailed documentation on
+the [documents](/documents) page. 
 
 #### Ingredients
 
+* 6 gallons of pressed apples from local orchard
+    * This orchard uses many different apple varieties and combines them
+      all. Similar to what medieval brewers use.
+* Yeast - Any cider or ale yeast will do
+
 #### Procedure
+
+* Pour pressed apples into appropriately sized carboy
+* Ensure proper yeast pitching temperature, then pitch
+* When fermentation finishes, bottle. 
 
 * * *
 
+### Black Currant Mead
+
+I'm fairly certain that this is the best mead I've ever made. Maybe as a
+very close second to the Lemon Nutmeg mead. The process was pretty
+straightforward and something I did kind of on a whim, but it ended up
+working really well.
+
+The mead was tart and slightly sweet, and really dark in color. It had a
+substantial black currant flavor with a distinct honey aftertaste. It
+was quite well balanced and really an incredible drink. 
+
+#### Ingredients
+
+* 3 gallons [Traditional Mead](#traditional-mead)
+    * I started with this as a base. It was about 6 mo old when I racked it.
+* 49 oz can of Vintner's Harvest black currant puree
+* 3 gallon carboy
+
+#### Procedure
+
+* Pour black currant puree into sanitized three gallon carboy
+* Rack mead on top of the black currant until the carboy is full
+* Place an airlock on top and let the secondary fermentation finish.
+    * Since the alcohol content goes down because of the addition of the
+      black currant, the yeast will revive and consume the black currant
+      sugar
+* When fermentation stops, bottle. 
+    * This was ready to drink immediately and was effectively only 9
+      months old at most. Three gallons was not enough.
+      
+* * *
