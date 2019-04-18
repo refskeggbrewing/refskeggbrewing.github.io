@@ -31,6 +31,8 @@ hanging out with people and it's always great to engage new experiences.
 * Entered Mary Rose style leather bottle at Skewered! 2018
 * Maenad and brewing enamel medallions and period brewing entered at Clash with Bacchus 2018
     * 1st place
+* Grape Medallions entered to Night in Navarre 2019
+    * 1st place
 
 ### Out of Kingdom
 

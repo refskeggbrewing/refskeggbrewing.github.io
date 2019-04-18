@@ -11,9 +11,20 @@ This section is going to take some time to write about. In the mean
 time, please refer to the documentation pdf files posted in the
 [documentation](/documents) section. 
 
-## Supplies
+For an overview of my enameling procedure and a brief explanation of the
+differences between medieval and modern methods, please see here: [General Enameling Procedure](procedure_general)
 
-* * *
+This is my To-Do list:
+* Why etch? And, the history of etching
+* Pierce Work
+* Why Theophilus is great
+* Modern reproduction of medieval art. (In Progress)
+* Experimentation: 
+    * Different etching styles
+    * Enameling: different colors in same cell, silver foil
+    * Different resists
+
+## Supplies
 
 Certainly supplies are important. Please check out the [Supplies](suppliers) page for purchasing information! 
 In the mean time, the main places where I obtain my enameling materials
@@ -28,12 +39,8 @@ are:
 
 ## Enameling Pictures
 
-* * * 
-
 * [General enameling pictures](pictures)! 
 * [Clash with Bacchus Display](bacchus)
-
-* * * 
 
 ## Enameling Blog Posts
 
