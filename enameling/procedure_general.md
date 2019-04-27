@@ -15,7 +15,7 @@ and an explanation on why the differences exist. Additionally, I intend
 to add other information as necessary to provide amplifying information
 and otherwise.
 
-Of great use here is Theophilus 12th century book, On Divers Arts.[@ENAMEL:3] It's
+Of great use here is Theophilus 12th century book, On Divers Arts. It's
 a substantial book describing the methods that painting, glassmaking,
 and metalworking used in his time period. It is an invaluable resource
 for enameling and metalworking with a medieval flair, as I do. Further,
@@ -33,7 +33,7 @@ Most of the early period enamels that can be found (including as
 described by Theophilus) were done using the Cloisenne method. That is,
 the shapes and patterns were created using carefully bent wires soldered
 to the metal to create the *cloisens* for enameling. The Champleve
-method[@ENAMEL:1], by contrast, was done by engraving (using gravers - also in
+method, by contrast, was done by engraving (using gravers - also in
 Theophilus' book) the shapes into the metal. For the Champleve method,
 the depressions could have been done by casting, etching, or die struck
 as well.

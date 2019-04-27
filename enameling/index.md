@@ -14,13 +14,14 @@ time, please refer to the documentation pdf files posted in the
 For an overview of my enameling procedure and a brief explanation of the
 differences between medieval and modern methods, please see here: [General Enameling Procedure](procedure_general)
 
-This is my To-Do list:
+We did some experiments with etching. See here to read about it: [Etching](etching)
+
+To-Do:
 * Why etch? And, the history of etching
 * Pierce Work
 * Why Theophilus is great
 * Modern reproduction of medieval art. (In Progress)
 * Experimentation: 
-    * Different etching styles
     * Enameling: different colors in same cell, silver foil
     * Different resists
 

@@ -40,7 +40,7 @@ The bottle we obtained is sold by MG Chemicals, who is a common supplier
 of other chemicals we use, mainly ferric chloride. It is sold as a PCB
 etchant. One of the few references I could find about this indicates
 that this etchant is expensive and difficult to use, which is what we
-found.[@ETCH:4] The instructions on the bottle say to mix the solid powder with
+found. The instructions on the bottle say to mix the solid powder with
 about a gallon of water, which we did. 
 
 When we added our metal to the etchant after it was diluted per
@@ -57,7 +57,7 @@ purposes.
 
 # Salt Water Etch
 
-A basic tutorial was found on instructables.[@ETCH:2] We followed the
+A basic tutorial was found on instructables. We followed the
 tutorial pretty closely and didn't have any success. Perhaps this was
 because we used two batteries instead of three, but in any case we had
 very little success. The reaction blew the electrical tape off of the
@@ -74,7 +74,7 @@ can't remember) so it might have been even better on pure copper.
 
 We didn't experiment with anything else, but there are other ways to do
 the same thing. A lot of people who etch using electricity use a copper
-nitrate electrolytic solution.[@ETCH:1] This has the key benefit of being
+nitrate electrolytic solution. This has the key benefit of being
 self-replenishing. However, it is more of a hassle to dispose of than
 Ferric Chloride.
 
