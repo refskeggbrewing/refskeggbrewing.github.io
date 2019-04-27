@@ -10,8 +10,9 @@ feature_image: /assets/images/document.jpg
 * * * 
 
 I write my documentation in markdown files and convert to pdf's using
-Pandoc and a LaTeX template. As mentioned, I execute citations primarily
-using IEEE style, as that is what I am most used to.
+Pandoc and a LaTeX template. As of 27 April, 2019 I have started to use
+Chicago style footnote citation for my documentation. It seems to lend
+itself a little bit better for historical papers.
 
 This [github repo](https://github.com/m3chanical/scadocs) has several
 example files showing how I document my projects. The contents of the

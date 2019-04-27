@@ -7,25 +7,19 @@ feature_image: /assets/images/document.jpg
 
 ## General
 
-* * *
-
 The EZ-doc for Atlantia A&S documentation can be found here: [EZ-Doc](/assets/documents/basic.pdf)  
 
-Because I come from an engineering background, for the most part my documentation is cited using IEEE style citations. I try to keep research as detailed as possible.
-If you'd like to see in more detail how I create the documentation I
+I have recently begun to use Chicago style footnote citation. It seems to lend itself well to historical papers and research like this.
+I try to keep research as detailed as possible. If you'd like to see in more detail how I create the documentation I
 use, please look [here](process). 
 
 ## Brewing 
-
-* * *
 
 Period French Cider Documentation: [Cider](/assets/documents/cider.pdf)
 I also have some raspberry mead that I need to add the documentation
 for. I have also done a bochet based on a French book from 1390.
 
 ## Enameling
-
-* * *
 
 ### Event Documentation 
 
@@ -42,13 +36,17 @@ sample.
 In the future I intend to create a sort of boilerplate enameling
 documentation binder with pictures and a lot of information. Then in
 addition to that, add event specific documentation as I go forward. I
-think it'll be a wise move going forward. 
+think it'll be a wise move going forward. As of 27 April 2019 that is
+currently in progess!
 
 ### General Enameling Notes:
 
 Enameling notes: [Enamel Notes](/assets/documents/enamel_notes.pdf)
 
-General Enameling Procedure: [Enamel Procedure](/assets/documents/enamel_procedure.pdf)
+General Enameling Procedure: [Enamel Procedure](/assets/documents/enamel_procedure_general.pdf)
 
 General References used for enameling: [Enamel References](/assets/documents/enamel_references.pdf)
 
+Etching Experimentation: [Etching](/assets/documents/enamel_etching.pdf)
+
+Enamel Supplies: [Supplies](/assets/documents/enamel_supplies.pdf)
