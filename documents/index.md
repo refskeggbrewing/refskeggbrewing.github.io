@@ -16,8 +16,16 @@ use, please look [here](process).
 ## Brewing 
 
 Period French Cider Documentation: [Cider](/assets/documents/cider.pdf)
-I also have some raspberry mead that I need to add the documentation
-for. I have also done a bochet based on a French book from 1390.
+
+Period Bochet Reproduction: [Bochet](/assets/documents/bochet.pdf)
+
+Raspberry Melomel (period-ish): [Raspberry](/assets/documents/RaspberryMelomel.pdf)
+
+The raspberry melomel is a combination recipe that I kind of hacked
+together. I could not find actual resources for a raspberry mead made in
+medieval period, but there is a raspberry wine recipe in Digby. I
+consider this to be plausible at best until I can find better
+documentation.
 
 ## Enameling
 
