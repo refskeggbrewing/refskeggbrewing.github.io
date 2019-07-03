@@ -42,6 +42,7 @@ are:
 
 * [General enameling pictures](pictures)! 
 * [Clash with Bacchus Display](bacchus)
+* [Storvik Novice](novice)
 
 ## Enameling Blog Posts
 
