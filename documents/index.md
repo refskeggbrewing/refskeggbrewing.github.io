@@ -45,7 +45,11 @@ In the future I intend to create a sort of boilerplate enameling
 documentation binder with pictures and a lot of information. Then in
 addition to that, add event specific documentation as I go forward. I
 think it'll be a wise move going forward. As of 27 April 2019 that is
-currently in progess!
+currently in progess! ... in fact, it is done! 
+
+My next event is Atlantia's 12th Night where I am going to enter a
+Plique-a-Jour style piece inspired by the Merode Cup. See the pictures
+[here](/assets/documents/paj_pictures.pdf)
 
 ### General Enameling Notes:
 
